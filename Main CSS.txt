@@ -1,0 +1,263 @@
+/*Page*/
+._4sp8 {
+    background-color: #000000 ;
+    display: flex;
+    font-size: 14px;
+    min-width: 500px;
+}
+
+/*Annoying left border*/
+._1q5- {
+	border-left: 0px solid #fff;
+}
+
+/*Main Panel bg*/
+.__i_ {
+	margin: 0 0px 0 0;
+	padding: 0 30px 0 0;
+}
+
+/*Messenger and Chat header*/
+._5742, ._36ic {
+    box-sizing: border-box;
+    height: 50px;
+    padding: 8px;
+    position: relative;
+    text-align: center;
+    z-index: 201;
+    background-color: #000;
+	border-bottom: 0px solid #fff;
+}
+
+/*Messenger text*/
+._36ic ._1tqi {
+	color: #00ff00;
+}
+
+/*Messenger bottom border*/
+._36ic {
+	border-bottom: 0px solid #fff;
+}
+
+/*Chat header text (Top chat name)*/
+._17w2 {
+	color: #00ff00;
+}
+
+/*Chat header last active*/
+._2v6o, ._5eu7 {
+	color: #6f0756;
+}
+
+/*Chat name*/
+._1ht6 {
+	color: #00ff00;
+}
+
+/*Chat message*/
+._1htf {
+	color: #00ff00;
+}
+
+/*Chat message new*/
+._1ht3 ._1htf {
+	color: #6f0756;
+}
+
+/*Chat time*/
+._1ht7 {
+	color: #ffffff;
+}
+
+
+/*Sidebar Panel*/
+/*Sidebar user name*/
+._3eur {
+	color: #1a90ff;
+}
+
+/*Sidebar last active*/
+._3eus, ._5uh {
+	color: #6db9ff;
+}
+
+/*Sidebar group name*/
+._2jnv, ._2jnx, ._2jnz, ._2jnx ._30e7 ._5j5f {
+	color: #00ff00;
+}
+
+/*Chat Options/People section heading*/
+._1lj0 {
+	color: #1a90ff;
+}
+
+/*Sidebar options name*/
+._3szq {
+	color: #ffffff ;
+}
+
+/*Add People*/
+._4rph ._4rpj {
+	color: #00ff00;
+}
+
+/*People in Chat*/
+._364g, ._3q34, ._3q35 {
+	color: #00ff00;
+}
+
+/*Main panel*/
+/*Chat declarations (time, <user> did <action>)*/
+._497p {
+	color: #ffffff ;
+}
+
+/*Username in chat*/
+._ih3 {
+	color: #00ff00;
+}
+
+/*Message In*/
+._hh7 {
+	background-color: #151515;
+	color: #ff009a;
+}
+
+._hh7:active {
+	background-color: #515AFF;
+}
+
+/*Mention Alerts In*/
+._ih- {
+	color: #fff !important;
+}
+
+._ih-:hover {
+	color: #fff !important;
+	text-shadow: 0px 0px 5px #fff;
+}
+
+/*Link in*/
+._hh7 a {
+	color: #fff;
+}
+
+._hh7 a:hover {
+	color: #fff;
+	text-shadow: 0px 0px 10px #c600fb;
+}
+
+/*Embedded media*/
+
+._3058 ._4skb {
+	background-color: #5a5e66;
+}
+
+/*Embedded link*/
+._5i_d .__6k, ._5i_d .__6l {
+	color: #fff;
+}
+
+/*Embedded audio*/
+._454y ._1mj1 {
+	border-bottom: 1px solid #00ecff;
+}
+
+._454y ._1mj0 {
+	background-color: #4f4f4f;
+}
+
+/*Audio play seek*/
+._29_7 ._3czg ._2e-7 ._2e-1, ._29_7 ._3czg ._2e-7 ._2e-2 {
+	background-color: #ff0081;
+}
+
+/*Game names*/
+h2 {
+	color: #1a90ff;
+}
+
+/*Game player names*/
+._4u4_>h3 {
+	color: #1a90ff;
+}
+
+/*New chat username*/
+._llq, ._2eu- ._36zg {
+	color: #fdff01;
+}
+
+/*You're friends on Facebook*/
+._1n-e {
+	color: #6db9ff;
+}
+
+
+
+/*User-input panel*/
+/*Text field*/
+._5rp8 ._1mf {
+	color: #fff; 
+}
+
+
+/*Menus*/
+/*Add People Menu*/
+._4eby {
+	background: #243447;
+}
+
+/*Add People Menu header*/
+._2c9i ._19jt {
+	color: #6db9ff;
+}
+
+/*Add People Menu: Add to group*/
+._4eby label, ._4eby input, #facebook ._4eby ._58al {
+	color: #6db9ff;
+}
+
+/*New Message*/
+/*Search bar To:*/
+._2y8z {
+	color: #1a90ff;
+}
+
+/*Search bar text*/
+._14-7 ._58ah ._58al {
+	color: #6db9ff;
+}
+
+
+/*General Menu*/
+/*Description text*/
+._-lj ._5bxm, ._gs3 ._28he {
+	color: #6db9ff;
+}
+
+/*Notification Menu*/
+/*Checkbox name*/
+._374c {
+	color: #1a90ff;
+}
+
+/*Checkbox desc*/
+._374b {
+	color: #6db9ff;
+}
+
+/*Emoji Menu*/
+/*Selected tab*/
+._1uwz {
+	background: rgba(0, 0, 0, 0.15);
+}
+
+/*Selected emoji*/
+._-lj ._4rlt {
+	background-color: rgba(0, 0, 0, 0.35);
+	border: 0px solid;
+}
+._nd_ ._hh7 {
+    background-color: #021629;
+    color: #ffce00;
+}
