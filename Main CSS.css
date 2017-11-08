@@ -46,6 +46,7 @@ input::-webkit-input-placeholder {
 ._4sp8 {
     background-color: #04001c !important;
     color: #7cff00;
+    
 }
 /* detail wrapper */
 
@@ -124,7 +125,39 @@ input::-webkit-input-placeholder {
 ._hh7._2f5r,
 ._-5k ._hh7._2f5r {
     background-color: transparent !important;
+    /* right pane */
 }
+._20bp{
+     width: 1337.969px;
+   
+}
+._3ktv{
+    width : 152px;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+._4_j5 {
+    border-left: 1px solid rgba(0, 0, 0, .10);
+    /* flex: 0 2 33.33%; */
+    max-width: 280px;
+
+    flex-basis: 20px;
+    min-width: 60px;
+    transition: flex-basis 0.3s, min-width 0.3s;
+}
+._4_j5:hover {
+    flex-basis: 12%;
+    max-width: 400px;
+    min-width: 320px;
+}
+/* main panel shenanigans 
+.__i_{
+    width: 1552.969px;
+}
+*/
 /* reactions */
 
 ._aou {
