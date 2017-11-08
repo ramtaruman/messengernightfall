@@ -9,5 +9,7 @@ To be used with **stylish/stylus**
 ![alt text](https://i.imgur.com/mBhrfHA.jpg "Logo Title Text 1")
 ![alt text](https://i.imgur.com/EDIyihM.png "Logo Title Text 2")
 
+*Optimal resoultion : 1360x768 **Support for other resolutions coming soon™***
+
 
 
